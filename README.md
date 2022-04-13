@@ -1,6 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ch3nnn&show_icons=true">
 
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ch3nnn&show_icons=true">
+
 
 - 👨🏻‍💻 一名努力搬砖的后端程序猿
 - 👀 正在学习Golang
