@@ -1,15 +1,19 @@
 
+
 ### Hi there 👋
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ch3nnn&show_icons=true">
 
 
 - 👨🏻‍💻 一名努力搬砖的后端程序猿
 - 👀 正在学习Golang
 - 📗 Blog 平时想起来就写点 [[Ch3nnnnn个人博客]](https://ch3nnn.cn/) 
+- 📖 CSDN [[博客]](ch3nnn.blog.csdn.net) 
 - 💬 Wechat: _SupermAn
 - 📫 Email: chen.yinren@163.com
 
-
+### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
