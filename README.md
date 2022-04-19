@@ -9,7 +9,7 @@
 - 👨🏻‍💻 一名努力搬砖的后端程序猿
 - 👀 正在学习Golang
 - 📗 Blog 平时想起来就写点 [[Ch3nnnnn个人博客]](https://ch3nnn.cn/) 
-- 📖 CSDN [[博客]](ch3nnn.blog.csdn.net) 
+- 📖 CSDN [[博客]](https://ch3nnn.blog.csdn.net) 
 - 💬 Wechat: _SupermAn
 - 📫 Email: chen.yinren@163.com
 
