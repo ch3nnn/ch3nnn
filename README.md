@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2022 - To: 21 April 2022
+From: 15 April 2022 - To: 22 April 2022
 
-Go                    4 hrs 36 mins   ██████████████▓░░░░░░░░░░   58.24 %
-Markdown              2 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.08 %
-JSON                  42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-Python                9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Java                  3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Sublime Text Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Go                    5 hrs 25 mins   ██████████████▒░░░░░░░░░░   57.32 %
+Markdown              2 hrs 18 mins   ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+JSON                  1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+Python                9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Java                  3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Sublime Text Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
