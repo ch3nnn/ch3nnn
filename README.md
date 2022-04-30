@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 April 2022 - To: 28 April 2022
+From: 22 April 2022 - To: 29 April 2022
 
-Go                4 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   47.02 %
-Markdown          1 hr 52 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-Java              47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Protocol Buffer   44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-JSON              44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-IDEA_MODULE       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Go                4 hrs 9 mins    ████████████░░░░░░░░░░░░░   48.60 %
+Markdown          1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
+Java              59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Protocol Buffer   49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+go.mod            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+IDEA_MODULE       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
