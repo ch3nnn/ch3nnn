@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 August 2022 - To: 13 August 2022
+From: 07 August 2022 - To: 14 August 2022
 
 Go             10 hrs 12 mins  ██████████████████████░░░   87.59 %
 Markdown       36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
