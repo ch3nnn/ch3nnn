@@ -17,14 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 August 2022 - To: 23 August 2022
-
-Dockerfile   1 hr 47 mins    ████████████████░░░░░░░░░   64.02 %
-YAML         28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-Docker       24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Go           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-.env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
