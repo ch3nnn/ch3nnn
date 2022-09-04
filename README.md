@@ -17,7 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 August 2022 - To: 02 September 2022
+
+Go          28 mins         ███████████████████▓░░░░░   78.54 %
+.env file   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Markdown    3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Bash        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
