@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2022 - To: 12 September 2022
+From: 06 September 2022 - To: 13 September 2022
 
-Go             2 hrs 6 mins    █████████████████████▓░░░   86.21 %
-HTTP Request   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Java           6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-.env file      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Bash           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Go             3 hrs 44 mins   ████████████████████░░░░░   79.77 %
+Dockerfile     19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+YAML           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+HTTP Request   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+.env file      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Bash           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
