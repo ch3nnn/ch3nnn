@@ -17,10 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 September 2022 - To: 26 September 2022
+From: 20 September 2022 - To: 27 September 2022
 
-Go           3 hrs 58 mins   ██████████████▒░░░░░░░░░░   57.14 %
-Other        52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Go           3 hrs 3 mins    ██████████████▓░░░░░░░░░░   58.98 %
+Dockerfile   52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
+YAML         29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Other        28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
 ```
 
 <!--END_SECTION:waka-->
