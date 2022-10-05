@@ -17,10 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 September 2022 - To: 03 October 2022
+From: 27 September 2022 - To: 04 October 2022
 
-Go         1 hr 45 mins    ███████████████████░░░░░░   75.37 %
-Other      17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Go         49 mins         █████████████▓░░░░░░░░░░░   54.15 %
+Bash       26 mins         ███████▒░░░░░░░░░░░░░░░░░   28.71 %
+SQL        7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+CSV        7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
