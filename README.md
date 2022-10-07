@@ -17,11 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
+From: 29 September 2022 - To: 06 October 2022
 
-Bash   26 mins         ██████████████████▓░░░░░░   75.31 %
-SQL    7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
-Go     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Bash   34 mins         █████████████████████████   99.53 %
+Go     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
