@@ -17,14 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 October 2022 - To: 01 November 2022
-
-Go           1 hr 6 mins     ████████████████▒░░░░░░░░   65.25 %
-go.mod       22 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
-Text         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Dockerfile   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
