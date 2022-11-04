@@ -17,7 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 October 2022 - To: 03 November 2022
+
+Go         11 mins         ████████████████████░░░░░   80.32 %
+Markdown   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+YAML       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Text       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
