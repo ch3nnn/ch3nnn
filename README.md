@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 November 2022 - To: 19 November 2022
+From: 13 November 2022 - To: 20 November 2022
 
 Go             8 hrs 38 mins   █████████████████░░░░░░░░   68.36 %
 Java           1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
