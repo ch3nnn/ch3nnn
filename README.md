@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-Go                17 hrs 7 mins   ████████████░░░░░░░░░░░░░   48.12 %
-Python            12 hrs 33 mins  ████████▓░░░░░░░░░░░░░░░░   35.28 %
-Protocol Buffer   1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-YAML              1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Markdown          1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-protobuf          40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Go                20 hrs 35 mins  ██████████████▓░░░░░░░░░░   59.14 %
+Python            9 hrs 10 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+Protocol Buffer   1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Markdown          1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+YAML              48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+protobuf          31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
