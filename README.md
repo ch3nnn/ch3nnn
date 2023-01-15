@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 13 January 2023
+From: 07 January 2023 - To: 14 January 2023
 
 Python            7 hrs 18 mins   ██████████▓░░░░░░░░░░░░░░   42.20 %
 Go                4 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   28.14 %
