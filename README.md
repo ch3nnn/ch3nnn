@@ -17,14 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 January 2023 - To: 24 January 2023
-
-Go          1 hr 17 mins    █████████████▓░░░░░░░░░░░   55.32 %
-Python      45 mins         ████████░░░░░░░░░░░░░░░░░   32.36 %
-YAML        12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-.env file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Api File    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
