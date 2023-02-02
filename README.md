@@ -3,10 +3,10 @@
 ### Hi there 👋
 
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=ch3nnn&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ch3nnn&show_icons=true">
 
 
-- 👨🏻‍💻 一名擅长增删改查、代码搬运、面向搜索引擎编程的程序猿
+- 👨🏻‍💻 擅长增删改查、代码搬运、面向搜索引擎编程
 - 👀 正在学习 Golang
 - 📗 Blog 平时想起来就写点 [[Ch3nnnnn个人博客]](https://ch3nnn.cn/) 
 - 📖 CSDN [[CSDN博客]](https://ch3nnn.blog.csdn.net) 
