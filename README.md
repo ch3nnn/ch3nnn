@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 04 February 2023 - To: 11 February 2023
 
 Python         19 hrs 24 mins  █████████████████████▒░░░   84.74 %
 SQL            2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
