@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2023 - To: 08 July 2023
+From: 02 July 2023 - To: 09 July 2023
 
-Go                6 hrs 33 mins   █████████████████░░░░░░░░   68.13 %
-Protocol Buffer   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-YAML              25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Markdown          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-protobuf          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Go                9 hrs 26 mins   ██████████████████▒░░░░░░   72.72 %
+Api File          43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Protocol Buffer   42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Markdown          28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+YAML              27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
