@@ -10,7 +10,7 @@
 - 👀 正在学习 Golang
 - 📗 Blog 平时想起来就写点 <a href="https://ch3nnn.cn/" target="_blank">[Ch3nnnnn个人博客]</a>
 - 📖 CSDN <a href="https://ch3nnn.blog.csdn.net" target="_blank">[CSDN博客]</a>
-- 💬 Wechat official account: 暹罗猫十七
+- 💬 微信公众号: 暹罗猫十七
 - 📫 Email: chen.yinren@163.com
 
 ### 📊 Weekly development breakdown
