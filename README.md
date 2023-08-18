@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-Go                 12 hrs 57 mins  ██████████████▓░░░░░░░░░░   58.88 %
-Python             4 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-Markdown           1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Docker             50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Makefile           38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Go                 12 hrs 8 mins   ██████████████▓░░░░░░░░░░   58.27 %
+Python             5 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+Markdown           57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Makefile           38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Text               30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
