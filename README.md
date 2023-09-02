@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-Go                 11 hrs 16 mins  ███████████▓░░░░░░░░░░░░░   47.29 %
-Python             4 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   19.53 %
-TOML               2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-Markdown           2 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-YAML               1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Go                 13 hrs 37 mins  █████████████▒░░░░░░░░░░░   52.68 %
+Python             4 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
+TOML               2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+Markdown           2 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+YAML               1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
