@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2023 - To: 11 September 2023
+From: 05 September 2023 - To: 12 September 2023
 
-Python             6 hrs 44 mins   ███████████▒░░░░░░░░░░░░░   45.38 %
-Go                 6 hrs 8 mins    ██████████▒░░░░░░░░░░░░░░   41.30 %
-YAML               1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Docker             31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Objective-C        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python             4 hrs 36 mins   ███████████░░░░░░░░░░░░░░   44.00 %
+Go                 4 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.70 %
+YAML               59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Docker             31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Bash               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
