@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
 Python             15 hrs 57 mins  ███████████████████████░░   91.74 %
 Go                 18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
