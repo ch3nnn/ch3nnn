@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-Python             4 hrs 15 mins   ██████████████▒░░░░░░░░░░   56.80 %
-Go                 1 hr 58 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
-Protocol Buffer    33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Markdown           20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-protobuf           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Python             1 hr 53 mins    ██████████████████▓░░░░░░   75.02 %
+Markdown           17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Go                 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Bash               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+.env file          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
