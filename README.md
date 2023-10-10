@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Go                 7 hrs 39 mins   ████████████████▓░░░░░░░░   66.16 %
-Python             2 hrs 47 mins   ██████░░░░░░░░░░░░░░░░░░░   24.10 %
-Docker             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Protocol Buffer    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-protobuf           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Go                 8 hrs 17 mins   ███████████▒░░░░░░░░░░░░░   45.47 %
+Python             7 hrs 46 mins   ██████████▓░░░░░░░░░░░░░░   42.67 %
+Docker             51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Protocol Buffer    18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+.env file          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
