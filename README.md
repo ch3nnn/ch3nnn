@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2023 - To: 03 November 2023
+From: 28 October 2023 - To: 04 November 2023
 
 Go                26 hrs 5 mins   ██████████████████░░░░░░░   72.40 %
 Api File          3 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
