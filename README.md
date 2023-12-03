@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2023 - To: 30 November 2023
+From: 24 November 2023 - To: 01 December 2023
 
-Python             22 hrs 51 mins  ████████████████▒░░░░░░░░   65.86 %
-Go                 11 hrs 4 mins   ████████░░░░░░░░░░░░░░░░░   31.91 %
-JSON               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Protocol Buffer    8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-SQL                6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python             22 hrs 58 mins  ██████████████████░░░░░░░   72.64 %
+Go                 8 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+JSON               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+.env file          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Bash               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
