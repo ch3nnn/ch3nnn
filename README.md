@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 08 December 2023
+From: 02 December 2023 - To: 09 December 2023
 
 Go                14 hrs 16 mins  ██████████████████▒░░░░░░   73.63 %
 Protocol Buffer   1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
