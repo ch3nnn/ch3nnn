@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2023 - To: 15 December 2023
+From: 09 December 2023 - To: 16 December 2023
 
 Go                 21 hrs 54 mins  ██████████████████▓░░░░░░   74.30 %
 Api File           2 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
