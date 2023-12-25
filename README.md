@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
-Go                22 hrs 49 mins  ███████████████████▒░░░░░   77.37 %
-Protocol Buffer   1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-SQL               1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Api File          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Go                22 hrs 53 mins  ███████████████████▒░░░░░   77.42 %
+Protocol Buffer   1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+SQL               1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Api File          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 JSON              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
