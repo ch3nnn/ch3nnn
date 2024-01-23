@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2024 - To: 21 January 2024
+From: 15 January 2024 - To: 22 January 2024
 
-Go                   27 hrs 23 mins  ██████████████████▓░░░░░░   75.14 %
-Api File             2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-go.mod               57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Makefile             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Protocol Buffer      54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Go                26 hrs 28 mins  ██████████████████▒░░░░░░   72.85 %
+Api File          3 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Makefile          1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Markdown          1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Protocol Buffer   58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
