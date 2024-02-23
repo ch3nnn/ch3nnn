@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Go                13 hrs 3 mins   ███████████████████▓░░░░░   78.39 %
-Api File          1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Markdown          55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Makefile          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-SQL               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Go                17 hrs 16 mins  ███████████████████░░░░░░   75.69 %
+Api File          1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Markdown          1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Makefile          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+YAML              51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
