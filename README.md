@@ -8,8 +8,8 @@
 
 - 👨🏻‍💻 擅长增删改查、代码搬运、面向搜索引擎编程
 - 👀 正在学习 Golang
-- 📗 Blog 平时想起来就写点 <a href="https://ch3nnn.cn/" target="_blank">[Ch3nnnnn个人博客]</a>
-- 📖 CSDN <a href="https://ch3nnn.blog.csdn.net" target="_blank">[CSDN博客]</a>
+- 📗 Blog 平时想起来就写点 <a href="https://blog.ch3nnn.cn/" target="_blank">[Ch3nnn!Blog]</a>
+- 📖 <a href="https://ch3nnn.blog.csdn.net" target="_blank">[CSDN博客]</a>
 - 💬 微信公众号: 暹罗猫十七
 - 📫 Email: chen.yinren@163.com
 
