@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2024 - To: 27 February 2024
+From: 21 February 2024 - To: 28 February 2024
 
-Go                25 hrs 14 mins  ███████████████████▓░░░░░   78.26 %
-Makefile          1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-YAML              1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Protocol Buffer   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Api File          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Go                24 hrs 15 mins  █████████████████▓░░░░░░░   71.26 %
+Markdown          2 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Makefile          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+YAML              1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Protocol Buffer   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
