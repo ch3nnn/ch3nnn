@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2024 - To: 02 March 2024
+From: 25 February 2024 - To: 03 March 2024
 
-Go                24 hrs 37 mins  ███████████████████▒░░░░░   77.02 %
-Markdown          1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Protocol Buffer   1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-SQL               47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-protobuf          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Go                21 hrs 50 mins  ███████████████████░░░░░░   75.89 %
+Markdown          1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Protocol Buffer   1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+SQL               47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Makefile          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
