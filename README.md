@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2024 - To: 24 March 2024
+From: 18 March 2024 - To: 25 March 2024
 
-Go                   17 hrs 12 mins  █████████████████▒░░░░░░░   69.03 %
-Markdown             2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Api File             1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-HTML                 1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-protobuf             54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Go                   14 hrs 9 mins   █████████████████░░░░░░░░   67.73 %
+Markdown             2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+HTML                 1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+protobuf             48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Api File             47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
