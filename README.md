@@ -17,12 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2024 - To: 03 May 2024
+From: 27 April 2024 - To: 04 May 2024
 
-Markdown   2 hrs 15 mins   ██████████████████▒░░░░░░   73.11 %
-Go         47 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
-go.mod     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown   1 hr 19 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
