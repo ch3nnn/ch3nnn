@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
-Go                32 hrs 7 mins   ████████████████████▓░░░░   83.09 %
-Api File          1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-SQL               1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Go                31 hrs 53 mins  ████████████████████▓░░░░   82.40 %
+Api File          2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+SQL               1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 JSON              1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Makefile          59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Makefile          59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
