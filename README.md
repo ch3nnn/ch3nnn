@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ch3nnn&show_icons=true">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ch3nnn&show_icons=true">
 
 - 👨🏻‍💻 擅长增删改查、代码搬运、面向搜索引擎编程
 - 👀 正在学习 Golang
