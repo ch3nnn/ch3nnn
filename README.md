@@ -17,10 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Go     7 mins          █████████████████████████   99.99 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                3 hrs 32 mins   ██████████████████░░░░░░░   72.43 %
+YAML              30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+INI               16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+go.mod            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Api File          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
