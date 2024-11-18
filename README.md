@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
 Go                  7 hrs 18 mins   ███████████▒░░░░░░░░░░░░░   45.07 %
 HTML                4 hrs 33 mins   ███████░░░░░░░░░░░░░░░░░░   28.06 %
