@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-Go                  7 hrs 18 mins   ███████████▒░░░░░░░░░░░░░   45.07 %
-HTML                4 hrs 33 mins   ███████░░░░░░░░░░░░░░░░░░   28.06 %
-Log                 57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Makefile            51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Markdown            32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Go                  6 hrs 22 mins   ████████████████░░░░░░░░░   63.55 %
+Makefile            51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+HTML                50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Markdown            32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Docker              26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->
