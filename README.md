@@ -18,9 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 24 November 2024
+From: 18 November 2024 - To: 25 November 2024
 
-No activity tracked
+Go         3 mins          ████████████████▓░░░░░░░░   66.45 %
+Api File   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
+JSON       0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
