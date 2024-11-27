@@ -18,12 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 25 November 2024
+From: 19 November 2024 - To: 26 November 2024
 
-Go         3 mins          ████████████████▓░░░░░░░░   66.45 %
-Api File   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-JSON       0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Go               8 mins          █████████████████░░░░░░░░   67.64 %
+go.mod           1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+Api File         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+JSON             0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+GitIgnore file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
 <!--END_SECTION:waka-->
