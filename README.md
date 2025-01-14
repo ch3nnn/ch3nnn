@@ -18,13 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-Go           3 hrs 41 mins   ███████████████░░░░░░░░░░   59.62 %
-HTML         2 hrs 7 mins    ████████▓░░░░░░░░░░░░░░░░   34.41 %
-Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
