@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 01 February 2025
+From: 26 January 2025 - To: 02 February 2025
 
 Go           5 hrs 27 mins   ███████████████░░░░░░░░░░   60.25 %
 HTML         3 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.84 %
