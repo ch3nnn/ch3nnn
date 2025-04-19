@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2025 - To: 17 April 2025
+From: 11 April 2025 - To: 18 April 2025
 
 Go             4 hrs 9 mins    ███████████████████▓░░░░░   78.35 %
 SQL            49 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
