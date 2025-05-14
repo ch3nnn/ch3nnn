@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2025 - To: 12 May 2025
+From: 06 May 2025 - To: 13 May 2025
 
-Go                4 hrs 54 mins   █████████████████████████   99.45 %
-go.mod            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go                5 hrs 18 mins   ████████████████████████▓   98.13 %
+YAML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+go.mod            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
