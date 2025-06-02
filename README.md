@@ -18,13 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-Go           43 mins         █████████████▒░░░░░░░░░░░   53.86 %
-HTML         36 mins         ███████████▒░░░░░░░░░░░░░   44.71 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Log          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
