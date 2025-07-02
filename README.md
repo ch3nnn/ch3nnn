@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2025 - To: 30 June 2025
+From: 24 June 2025 - To: 01 July 2025
 
 Go       22 mins         ███████████████████░░░░░░   75.97 %
 HTML     3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
