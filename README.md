@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2025 - To: 08 July 2025
+From: 02 July 2025 - To: 09 July 2025
 
-Go                12 hrs 39 mins  ███████████████████▓░░░░░   78.64 %
-YAML              1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Protocol Buffer   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-protobuf          34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Makefile          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Go                7 hrs 30 mins   ██████████████████░░░░░░░   71.88 %
+YAML              55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Protocol Buffer   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+protobuf          34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Makefile          22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
